@@ -1,0 +1,10 @@
+{
+    "Name": "Better AI Permanent Evasion Add-on",
+    "Enabled": true,
+    "DependsOn": [ "Better AI", "PermanentEvasion" ],
+
+    "Version": "1.0.0",
+    "Description": "Changes Float_PipStripAttackProbabilityThreshold for Permanent Evasion",
+    "Author": "amechwarrior",
+    "Website": "https://github.com/Mpstark/BetterAI/"
+}
