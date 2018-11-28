@@ -900,7 +900,7 @@
       "k": "Float_PipStripAttackProbabilityThreshold",
       "v": {
         "type": "Float",
-        "floatVal": 0.1
+        "floatVal": 1.0
       }
     },
     {
