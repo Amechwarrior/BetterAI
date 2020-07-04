@@ -12,7 +12,7 @@
             "JSONPath": "$.behaviorVariables[?(@.k== 'Float_EvasiveToHitFloor')].v",
             "Action": "ObjectMerge",
             "Value": {
-               "floatVal": 30.0
+               "floatVal": 0.0
             }
         }
     ]
